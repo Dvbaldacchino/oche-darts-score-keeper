@@ -88,12 +88,3 @@ See the [support page](index.md).
 
 - iOS or iPadOS 18.0 or later
 
-## Building from source
-
-1. Open `Oche.xcodeproj` in Xcode.
-2. Select the `Oche` scheme and run it on a simulator or device.
-3. A local StoreKit configuration (`Oche.storekit`) is included so the Pro purchase can be tested without App Store Connect.
-
-## Contact
-
-[YOUR-EMAIL-HERE]
