@@ -3,7 +3,7 @@
 
 **Oche** is a darts score keeper for iPhone and iPad. Pick a game, add up to four players, and step up to the oche (the line you throw from). It keeps score, suggests checkouts, and saves every game so you can look back at your stats.
 
-It is built with SwiftUI. There are no accounts, no ads, no tracking, and it works fully offline.
+It is built with SwiftUI using Claude. There are no accounts, no ads, no tracking, and it works fully offline.
 
 Support: [index](index.md)
 - Privacy: [Privacy Policy](privacy.md)
