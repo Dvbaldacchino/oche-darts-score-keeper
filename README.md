@@ -5,7 +5,7 @@
 
 It is built with SwiftUI using Claude. There are no accounts, no ads, no tracking, and it works fully offline.
 
-Support: [index](index.md)
+- Support: [index](index.md)
 - Privacy: [Privacy Policy](privacy.md)
 
 ## Features
