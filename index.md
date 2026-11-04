@@ -4,7 +4,7 @@ Oche is a darts score keeper for iPhone and iPad, with X01 and Cricket scoring, 
 
 ## Contact
 
-Need help, found a bug, or have a suggestion? Email **[YOUR-EMAIL-HERE]** and include your device model and iOS version. I aim to reply within a few days.
+Need help, found a bug, or have a suggestion? Email **goldfinchdevs@gmail.com** and include your device model and iOS version. I aim to reply within a few days.
 
 ## Frequently asked questions
 
