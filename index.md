@@ -22,4 +22,5 @@ Export your history to Excel on the old device, move the file to the new one, an
 
 ## Privacy
 
-Read the [Privacy Policy](privacy).
+Read the [[Privacy Policy](privacy)](https://github.com/Dvbaldacchino/oche-darts-score-keeper/blob/main/privacy.md)
+.
