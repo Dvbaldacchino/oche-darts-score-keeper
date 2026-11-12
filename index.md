@@ -1,6 +1,6 @@
 # Oche Support
 
-Oche is a darts score keeper for iPhone and iPad, with X01 and Cricket scoring, practice modes, and player stats.
+Oche is a darts score keeper for iPhone, with X01 and Cricket scoring, practice modes, and player stats.
 
 ## Contact
 
