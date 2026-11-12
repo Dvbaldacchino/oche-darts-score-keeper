@@ -1,7 +1,7 @@
 
 # Oche
 
-**Oche** is a darts score keeper for iPhone and iPad. Pick a game, add up to four players, and step up to the oche (the line you throw from). It keeps score, suggests checkouts, and saves every game so you can look back at your stats.
+**Oche** is a darts score keeper for iPhone. Pick a game, add up to four players, and step up to the oche (the line you throw from). It keeps score, suggests checkouts, and saves every game so you can look back at your stats.
 
 It is built with SwiftUI using Claude. There are no accounts, no ads, no tracking, and it works fully offline.
 
@@ -57,9 +57,6 @@ No. The only time Oche talks to the App Store is for the Pro purchase and for re
 **Where is my data stored?**
 Only on your device. Deleting the app deletes your history, so export your history to Excel (Pro) if you want a backup.
 
-**Does it sync between my iPhone and iPad?**
-Not at the moment. To move your history, export it to Excel on one device and import it on the other (Pro).
-
 **Does it collect any data or show ads?**
 No. There are no ads, no analytics, and no tracking. See the [Privacy Policy](privacy.md).
 
@@ -79,12 +76,12 @@ Open the Pro screen, tap **Restore Purchases**, and make sure you are signed in 
 No. Oche Pro is paid once.
 
 **Can I use it on a Mac or Apple Vision Pro?**
-It is built for iPhone and iPad. The App Store may also let you run iPhone and iPad apps on Apple silicon Macs and Apple Vision Pro, but the layout has not been tested there.
+It is built for iPhone. The App Store may also let you run iPhone and iPad apps on Apple silicon Macs and Apple Vision Pro, but the layout has not been tested there.
 
 **How do I report a bug or suggest something?**
 See the [support page](index.md).
 
 ## Requirements
 
-- iOS or iPadOS 18.0 or later
+- iOS 18.0 or later
 
